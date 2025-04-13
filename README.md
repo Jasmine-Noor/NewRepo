@@ -1,4 +1,4 @@
 # NewRepo
 My Second Github Repository.
 <br>
-Author: Jasmine Noor
+Author: Jasmine Hayat Art
